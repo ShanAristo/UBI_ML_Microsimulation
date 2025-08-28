@@ -26,7 +26,7 @@ This repository hosts supplementary artefacts for my dissertation:
 ## Reproducing results
 
 1. Create a Python environment from `env/requirements.txt` (or `env/environment.yml`).
-2. Open `notebook/UBI_Final_Aug_27.ipynb`.
+2. Open `notebook/UBI_Notebook.ipynb`.
 3. Provide access to licensed LCFS data (paths documented in the notebook); run cells in order.
 4. Outputs will be saved under `diagnostics/`, `models/`, and `simulation_outputs/`.
 
