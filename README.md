@@ -17,11 +17,13 @@ This repository hosts supplementary artefacts for my dissertation:
 
 ## Appendix cross-reference
 
-- Appendix A → `diagnostics/`
-- Appendix B → distributions/correlations in `diagnostics/` and `data_previews/`
-- Appendix D → `simulation_outputs/`
-- Appendix E → `tables_tex/`, `env/`, plus selected CSVs in `data_previews/`
-- Appendix F → `data_previews/`
+- **Appendix A →** `notebook/`, `env/`, top-level `requirements.txt`
+- **Appendix B →** `tables/`  *(variable map & code–label mappings — excerpts used in PDF)*
+- **Appendix C →** `tables/`  *(expanded code–label mappings; or see CSVs referenced in F)*
+- **Appendix D →** `data_previews/`  *(additional categorical distributions, etc.)*
+- **Appendix E →** `diagnostics/`  *(missingness heatmaps + top-20 missingness rates)*
+- **Appendix F →** `data_previews/`  *(ml_ready_preview and other small, shareable previews)*
+
 
 ## Reproducing results
 
