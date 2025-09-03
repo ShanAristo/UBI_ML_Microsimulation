@@ -1,0 +1,56 @@
+key,source_var,code_col,label_col,code,label
+educ,HighEd1,educ_code,educ_cat,1,Degree or equivalent
+educ,HighEd1,educ_code,educ_cat,2,Higher education qualification below degree level
+educ,HighEd1,educ_code,educ_cat,3,A-Levels/Highers
+educ,HighEd1,educ_code,educ_cat,4,ONC National level/BTEC
+educ,HighEd1,educ_code,educ_cat,5,O-Level or GCSE A-C
+educ,HighEd1,educ_code,educ_cat,6,GCSE D-G
+educ,HighEd1,educ_code,educ_cat,7,"Other, including foreign qualification below degree level"
+educ,HighEd1,educ_code,educ_cat,8,No formal qualifications
+emp,A206,emp_code,emp_cat,0,Not recorded
+emp,A206,emp_code,emp_cat,1,Self-employed
+emp,A206,emp_code,emp_cat,2,Full-time employee
+emp,A206,emp_code,emp_cat,3,Part-time employee
+emp,A206,emp_code,emp_cat,4,Unemployed
+emp,A206,emp_code,emp_cat,5,Work related Government Training Programmes
+emp,A206,emp_code,emp_cat,6,Retired/unoccupied and of minimum NI Pension age
+emp,A206,emp_code,emp_cat,7,Retired/unoccupied but under minimum NI Pension age
+eth,a012p,eth_code,eth_cat,0,Not applicable
+eth,a012p,eth_code,eth_cat,1,White
+eth,a012p,eth_code,eth_cat,2,Mixed race
+eth,a012p,eth_code,eth_cat,3,Asian or Asian British
+eth,a012p,eth_code,eth_cat,4,Black or Black British
+eth,a012p,eth_code,eth_cat,10,Other ethnic group
+lone_parent,SingPar,lone_parent,lone_parent,1,Yes
+lone_parent,SingPar,lone_parent,lone_parent,2,No
+mar,a006p,mar_code,mar_cat,1,Married and living with your husband/wife
+mar,a006p,mar_code,mar_cat,2,Married and not living with your husband/wife
+mar,a006p,mar_code,mar_cat,3,Cohabitee
+mar,a006p,mar_code,mar_cat,4,Single
+mar,a006p,mar_code,mar_cat,5,Widowed
+mar,a006p,mar_code,mar_cat,6,Divorced
+mar,a006p,mar_code,mar_cat,7,Separated
+mar,a006p,mar_code,mar_cat,8,Civil Partner or Former Civil Partner
+region,Gorx,region_code,region_cat,1,North East
+region,Gorx,region_code,region_cat,2,North West and Merseyside
+region,Gorx,region_code,region_cat,3,Yorkshire and the Humber
+region,Gorx,region_code,region_cat,4,East Midlands
+region,Gorx,region_code,region_cat,5,West Midlands
+region,Gorx,region_code,region_cat,6,Eastern
+region,Gorx,region_code,region_cat,7,London
+region,Gorx,region_code,region_cat,8,South East
+region,Gorx,region_code,region_cat,9,South West
+region,Gorx,region_code,region_cat,10,Wales
+region,Gorx,region_code,region_cat,11,Scotland
+region,Gorx,region_code,region_cat,12,Northern Ireland
+sex,A004,sex_code,sex_cat,1,Male
+sex,A004,sex_code,sex_cat,2,Female
+tenure,A122,tenure_code,tenure_cat,0,Not Recorded
+tenure,A122,tenure_code,tenure_cat,1,LA (furnished unfurnished)
+tenure,A122,tenure_code,tenure_cat,2,Hsng Assn (furnished unfrnish)
+tenure,A122,tenure_code,tenure_cat,3,Priv. rented (unfurn)
+tenure,A122,tenure_code,tenure_cat,4,Priv. rented (furnished)
+tenure,A122,tenure_code,tenure_cat,5,Owned with mortgage
+tenure,A122,tenure_code,tenure_cat,6,Owned by rental purchase
+tenure,A122,tenure_code,tenure_cat,7,Owned outright
+tenure,A122,tenure_code,tenure_cat,8,Rent free
