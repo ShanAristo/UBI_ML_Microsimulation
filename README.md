@@ -7,13 +7,13 @@ This repository hosts supplementary artefacts for my dissertation:
 
 - `notebook/` — end-to-end analysis notebook (microsimulation + ML).
 - `diagnostics/` — missingness heatmaps and top-20 NA plots (Appendix A).
-- `data_previews/` — shareable excerpts of processed datasets (Appendix F).
+- `descriptive_outputs/` — shareable descriptive statistics and aggregated summaries
 - `simulation_outputs/` — policy scenario outputs (decile uplifts, summaries).
 - `models/` — classification artefacts (confusion matrices, ROC, coefficients).
 - `tables_tex/` — small LaTeX table excerpts used in the PDF appendices.
 - `env/` — environment files for reproducibility (Python versions & packages).
 
-> **Note**: Licensed microdata (LCFS) is **not** included. Only derived summaries/previews appear here.
+> **Note**: Note: Licensed microdata (LCFS) is **not** included. Only non-disclosive outputs (aggregated summaries and descriptive statistics) appear here.
 
 ## Appendix cross-reference
 
