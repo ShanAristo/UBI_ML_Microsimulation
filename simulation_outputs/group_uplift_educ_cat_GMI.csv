@@ -1,0 +1,10 @@
+educ_cat,median_uplift,mean_uplift,count
+A-Levels/Highers,0.0,0.07088103048334089,370
+Degree or equivalent,0.0,0.2878047535794904,1153
+GCSE D-G,0.0,0.09824865194232114,141
+Higher education qualification below degree level,0.0,0.02495463261637143,441
+No formal qualifications,0.0,0.05382099443831934,66
+O-Level or GCSE A-C,0.0,0.0663682593486595,642
+ONC National level/BTEC,0.0,0.7540210581594076,238
+"Other, including foreign qualification below degree level",0.0,0.04780659710655819,560
+,0.0,0.08438952120353148,1522

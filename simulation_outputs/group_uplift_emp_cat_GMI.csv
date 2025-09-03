@@ -1,0 +1,8 @@
+emp_cat,median_uplift,mean_uplift,count
+Work related Government Training Programmes,0.37249647390691126,0.6027944500860785,11
+Unemployed,0.1502364066193853,0.7526700838778656,121
+Full-time employee,0.0,0.0009813530189629427,2017
+Retired/unoccupied and of minimum NI Pension age,0.0,0.04574955479284999,1455
+Part-time employee,0.0,0.22748446412269238,574
+Self-employed,0.0,0.05368712049270715,406
+Retired/unoccupied but under minimum NI Pension age,0.0,0.8198797887619252,549

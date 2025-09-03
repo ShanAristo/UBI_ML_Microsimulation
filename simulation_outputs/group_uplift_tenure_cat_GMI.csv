@@ -1,0 +1,9 @@
+tenure_cat,median_uplift,mean_uplift,count
+Hsng Assn (furnished unfrnish),0.0,0.08971439755547868,407
+LA (furnished unfurnished),0.0,0.1295591117244733,455
+Owned by rental purchase,0.0,0.0,18
+Owned outright,0.0,0.23505410280064198,1906
+Owned with mortgage,0.0,0.02092649117341095,1575
+Priv. rented (furnished),0.0,0.9790053676367363,112
+Priv. rented (unfurn),0.0,0.11170556582478411,607
+Rent free,0.0,0.19308182547168878,53

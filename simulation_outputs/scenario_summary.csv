@@ -1,0 +1,4 @@
+scenario,per_adult_month,per_adult_week,notes,rule
+Full UBI,500.0,115.38461538461539,flat per adult,
+Automation Dividend,200.0,46.15384615384615,flat per adult,
+GMI,,,,Top-up to 60% of median equivalised income (equivalised household threshold)
