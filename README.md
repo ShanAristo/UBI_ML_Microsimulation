@@ -10,7 +10,7 @@ This repository hosts supplementary artefacts for my dissertation:
 - `descriptive_outputs/` — shareable descriptive statistics and aggregated summaries
 - `simulation_outputs/` — policy scenario outputs (decile uplifts, summaries).
 - `models/` — classification artefacts (confusion matrices, ROC, coefficients).
-- `tables_tex/` — small LaTeX table excerpts used in the PDF appendices.
+- tables/ — supporting tables, including variable code–label mappings
 - `env/` — environment files for reproducibility (Python versions & packages).
 
 > **Note**: Note: Licensed microdata (LCFS) is **not** included. Only non-disclosive outputs (aggregated summaries and descriptive statistics) appear here.
@@ -22,7 +22,7 @@ This repository hosts supplementary artefacts for my dissertation:
 - **Appendix C →** `tables/`  *(expanded code–label mappings; or see CSVs referenced in F)*
 - **Appendix D →** `data_previews/`  *(additional categorical distributions, etc.)*
 - **Appendix E →** `diagnostics/`  *(missingness heatmaps + top-20 missingness rates)*
-- **Appendix F →** `data_previews/`  *(ml_ready_preview and other small, shareable previews)*
+
 
 
 ## Reproducing results
