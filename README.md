@@ -6,7 +6,7 @@ This repository hosts supplementary artefacts for my dissertation:
 ## What’s here
 
 - `notebook/` — end-to-end analysis notebook (microsimulation + ML).
-- `diagnostics/` — missingness heatmaps and top-20 NA plots (Appendix A).
+- `diagnostics/` — data quality and exploratory outputs
 - `descriptive_outputs/` — shareable descriptive statistics and aggregated summaries
 - `simulation_outputs/` — policy scenario outputs (decile uplifts, summaries).
 - `models/` — classification artefacts (confusion matrices, ROC, coefficients).
