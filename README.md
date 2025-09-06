@@ -18,10 +18,10 @@ This repository hosts supplementary artefacts for my dissertation:
 ## Appendix cross-reference
 
 - **Appendix A →** `notebook/`, `env/`, top-level `requirements.txt`
-- **Appendix B →** `tables/`  *(variable map & code–label mappings — excerpts used in PDF)*
-- **Appendix C →** `tables/`  *(expanded code–label mappings; or see CSVs referenced in F)*
+- **Appendix B →** `tables/`  *(variable map & code–label mappings)*
+- **Appendix C →** `tables/`  *(expanded code–label mappings)*
 - **Appendix D →** `data_previews/`  *(additional categorical distributions, etc.)*
-- **Appendix E →** `diagnostics/`  *(missingness heatmaps + top-20 missingness rates)*
+- **Appendix E →** `diagnostics/`  *(missingness heatmaps )*
 
 
 
