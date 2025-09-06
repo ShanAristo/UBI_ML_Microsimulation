@@ -20,7 +20,7 @@ This repository hosts supplementary artefacts for my dissertation:
 - **Appendix A →** `notebook/`, `env/`, top-level `requirements.txt`
 - **Appendix B →** `tables/`  *(variable map & code–label mappings)*
 - **Appendix C →** `tables/`  *(expanded code–label mappings)*
-- **Appendix D →** `data_previews/`  *(additional categorical distributions, etc.)*
+- **Appendix D →** `descriptive_outputs/`  *(additional categorical distributions, etc.)*
 - **Appendix E →** `diagnostics/`  *(missingness heatmaps )*
 
 
